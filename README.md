@@ -1,4 +1,4 @@
-### Bem-vindo, Me chamo Mariano e atualmente sou estudante Front-End
+### Bem-vindo, me chamo Mariano e atualmente sou estudante Front-End
 
 - 🌱 Atualmente estudo ReactJS
 
