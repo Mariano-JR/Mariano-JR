@@ -1,7 +1,7 @@
-### Bem-vindo, me chamo Mariano, sou apaixonado em tecnologias e atualmente sou estudante Front-End!
+### Bem-vindo, me chamo Mariano, apaixonado em tecnologias e atualmente estudo Desenvolvimento Web Front-End!
 
 - 🎓 Formado em Administração de Empresas pela UNIP
-- 🌱 Curso corrent: ReactJS
+- 🌱 Curso corrente: ReactJS, NodeJS
 
 <div align="center">
   <a href="https://github.com/Mariano-JR">
