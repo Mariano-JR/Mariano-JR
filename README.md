@@ -1,7 +1,12 @@
-### Bem-vindo, me chamo Mariano, apaixonado em tecnologias e atualmente estudo Desenvolvimento Web Front-End!
+# Seja Bem Vindo ao meu GitHub!
 
-- 🎓 Formado em Administração de Empresas pela UNIP
-- 🌱 Curso corrente: ReactJS, NodeJS
+### Aqui é onde posto meus projetos e evoluções, sempre em eterno aprendizado.
+
+
+- 🎓 Formado em Administração de Empresas;
+- 🎓 Cursando Bacharelado em Ciência da Computação;
+- 🎓 Cursando Tecnico em Desenvolvimento de Sistemas;
+- 🌱 Curso corrente: Golang, Sass, ReactJS
 
 <div align="center">
   <a href="https://github.com/Mariano-JR">
@@ -12,10 +17,12 @@
 ## Ferramentas e Tecnologias
 
 <div style="display: inline_block" align= "center"><br>
-  <img align="center" alt="Mariano-JL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Mariano-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Mariano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mariano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mariano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Mariano-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Mariano-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Mariano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mariano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mariano-BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
