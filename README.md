@@ -1,52 +1,65 @@
-# Seja Bem Vindo ao meu GitHub!
+# Mariano Júnior
 
-### Aqui é onde posto meus projetos e evoluções, sempre em eterno aprendizado.
+Desenvolvedor **Back-end Júnior**, com foco em construção de APIs, autenticação, lógica de negócio e boas práticas de desenvolvimento.  
+Atualmente em formação, aplicando na prática conceitos de **Node.js, TypeScript e Golang** em projetos próprios voltados ao aprendizado real de back-end.
 
+---
 
-- 🎓 Formado em Administração de Empresas;
-- 🎓 Cursando Bacharelado em Ciência da Computação;
-- 🎓 Cursando Tecnico em Desenvolvimento de Sistemas;
-- 🌱 Curso corrente: Golang, Sass, ReactJS
+## Sobre mim
+
+- 🎓 Formado em Administração de Empresas  
+- 🎓 Cursando Bacharelado em Ciência da Computação
+
+Tenho direcionado meus estudos para desenvolvimento **Back-end**, criando projetos práticos que envolvem APIs REST, autenticação de usuários, persistência de dados e organização de código, sempre buscando clareza, simplicidade e boas práticas.
+
+---
+
+## Principais Competências
+
+**Back-end**
+- Desenvolvimento de APIs REST
+- Node.js e TypeScript
+- Golang
+- Autenticação (JWT, OAuth2)
+- Estruturação de projetos e regras de negócio
+
+**Banco de Dados**
+- PostgreSQL
+- MySQL
+- SQLite
+
+**Ferramentas**
+- Git & GitHub
+- Docker (conceitos e uso em projetos)
+- Swagger / OpenAPI
+- NPM
+
+---
+
+## Projetos
+
+Meus repositórios públicos refletem projetos desenvolvidos com foco em aprendizado prático de back-end, abordando temas como autenticação, organização de APIs, integração com banco de dados e documentação.
+
+Cada projeto contém README explicativo e código organizado para facilitar entendimento e avaliação técnica.
+
+---
+
+## Atividade no GitHub
 
 <div align="center">
-  <a href="https://github.com/Mariano-JR">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mariano-JR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariano-JR&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariano-JR&layout=compact&langs_count=6&theme=algolia"/>
 </div>
+
+---
+
+## Contato
+
 <div align="center">
-  <img src="https://www.codewars.com/users/Mariano-JR/badges/large"/>
-</div>
-  
-## Ferramentas e Tecnologias
-
-<div style="display: inline_block" align= "center"><br>
-  <img align="center" alt="Mariano-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Mariano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mariano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mariano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mariano-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Mariano-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Mariano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mariano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mariano-BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Mariano-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Mariano-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Mariano-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Mariano-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="Mariano-AI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
-  <img align="center" alt="Mariano-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
-
-## Social
-
-<div align ="center">
-  <a href="https://www.linkedin.com/in/mariano-jr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/marianojr.dev/" target="_blank"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white></a>
-  <a href="https://twitter.com/MarianoJR_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">   </a>
-  <a href="mailto:mariano_br123@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  
-  ![Snake animation](https://github.com/Mariano-JR/Mariano-JR/blob/output/github-contribution-grid-snake.svg)
-  
-  <img align="center" height="250em" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
-  <img align="center" height="250em" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+  <a href="https://www.linkedin.com/in/mariano-junior" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:marianojr.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
 </div>
