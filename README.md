@@ -1,7 +1,6 @@
-# Mariano Júnior
+# Desenvolvedor Back-end Júnior
 
-Desenvolvedor **Back-end Júnior**, com foco em construção de APIs, autenticação, lógica de negócio e boas práticas de desenvolvimento.  
-Atualmente em formação, aplicando na prática conceitos de **Node.js, TypeScript e Golang** em projetos próprios voltados ao aprendizado real de back-end.
+Foco em desenvolvimento de APIs REST com Node.js (Express) e Golang (Fiber),  com atenção à organização, segurança e boas práticas.
 
 ---
 
